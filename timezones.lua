@@ -1722,5 +1722,6 @@ local countries = {
         cities = {"Harare", "Pretoria"}
     }
 }
+}
   
   return countries;
